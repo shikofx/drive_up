@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BookingTests" verbose="1">
+    <!--Running full packages-->
+   <test name="All tests">
+      <classes>
+         <class name="by.streamline.pkt.DownloadIntermediate"/>
+      </classes>
+   </test>
+</suite>

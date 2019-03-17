@@ -1,0 +1,13 @@
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/dictionaries
+# Sensitive or high-churn files
+.idea/**/uiDesigner.xml
+.idea/.name
+.idea/misc.xml
+target/
+.idea/vcs.xml
+.idea/encodings.xml
+tests_recorded.uml
+/.idea/codeStyles/
+/.idea/inspectionProfiles/
